@@ -2,7 +2,7 @@
 
 This repository contains the course source code and other extra materials like slides.
 
-## How to use
+## How to use - Go suck yourself on react
 
 The code snapshots are organized in multiple **branches** where every branch **represents a course section**.
 
